@@ -16,3 +16,4 @@ def function(var1, var2):
 ``` bash
 npm install
 ```
+Autor: Carlos Eduardo Andrade
